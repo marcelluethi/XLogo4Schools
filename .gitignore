@@ -11,11 +11,11 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+logo/deploy/*.jar
 *.war
 *.nar
 *.ear
-*.zip
+logo/deploy/*.zip
 *.tar.gz
 *.rar
 
